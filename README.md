@@ -37,7 +37,7 @@ This Python script scans a specified directory (and all its subdirectories) to f
 
 3. Run the script:
     ```bash
-    python duplicate_file_remover.py
+    python main.py
     ```
 
 4. The script will print a message for each duplicate file it deletes.
