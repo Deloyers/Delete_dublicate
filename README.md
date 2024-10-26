@@ -16,7 +16,7 @@ This Python script scans a specified directory (and all its subdirectories) to f
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/duplicate-file-remover.git
+    git clone https://github.com/Deloyers/Delete_dublicate.git
     cd duplicate-file-remover
     ```
 
